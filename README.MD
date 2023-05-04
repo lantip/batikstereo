@@ -34,6 +34,8 @@ Clone repository ini, masuk ke direktori hasil clone lalu jalankan instalasi.
 ## Deploy
 > python app.py
 
+Buka browser, akses app generator ini melalui url `http://localhost:5000`
+
 ## Catatan
 Untuk menambahkan pattern batik, gunakan pattern ukuran 140 x 140 pixel. Tambahkan image (png atau jpg) pattern tersebut ke direktori `static/img/pattern`.
 
