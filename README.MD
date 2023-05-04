@@ -1,6 +1,10 @@
 # Batik Stereogram
 ---
 
+
+https://user-images.githubusercontent.com/3334064/236109190-c7e86d95-a5c2-483b-9adf-ee3a535b1fb8.mp4
+
+
 # Table of Content
 
 1. [Instalasi](#instalasi)
